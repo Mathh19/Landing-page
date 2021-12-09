@@ -257,4 +257,10 @@
     .menu-spacing{
         display: none;
     }
+
+    @media(max-width: 320px){
+        h2{
+            font-size: 4rem;
+        }
+    }
 }
